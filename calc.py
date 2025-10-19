@@ -10,7 +10,7 @@ def multiplicacao(a, b):
 
 def divisao(a, b):
     if b == 0:
-        return "Erro: Divisão por zero"
+        return "Erro: Não é possivel dividir por zero"
     return a / b
  
 if __name__ == "__main__": 
